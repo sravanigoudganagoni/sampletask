@@ -1,0 +1,401 @@
+.home-page{
+    height:100vh;
+
+}
+.desc{
+    color:white;
+    font-family: "roboto";
+}
+.n-but{
+    font-size:12px;
+    padding:10px;
+    height:50px;
+    width:100px;
+    border:0px;
+    margin:10px;
+}
+.navbar{
+    height:10vh;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.l-name{
+    color: blueviolet;
+    font-size:15px;
+    font-family: "Roboto";
+    
+}
+
+.nav-items{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+   
+}
+
+.fa-person-digging{
+    height:40px;
+    width:40px;
+}
+
+.options{
+    color:black;
+    font-size: 14px;
+    font-family: 'Roboto';
+    margin-left:9px;
+}
+.man-icon{
+    font-size: 3rme;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.h-con{
+    height:75vh;
+    padding:12px;
+    margin-top: 0px;
+    width:100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-size: cover;
+    background-image: url(imagess/background-img1.jpg);
+
+}
+.l-con{
+    display:flex;
+    flex-direction: row;
+    
+}
+.d-con{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    
+}
+.heading{
+   color:white;
+   font-size:14px;
+
+}
+.b-con{
+    display: flex;
+    flex-direction: row;
+}
+
+.d-but{
+    background-color: #f7a023;
+    color:white;
+    font-size:12px;
+    padding:10px;
+    height:50px;
+    width:100px;
+    border:0px;
+    margin:10px;
+
+}
+.foot-sec{
+    
+    color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 10vh;
+    text-align: center;
+}
+
+.sub-des{
+    font-size:15px;
+}
+.s-con{
+    height:45px;
+    width:100px;
+    margin:5px;
+    padding:4px;
+    color:white;
+    text-align: center;
+    background-color: #f7a023;
+}
+
+.why-choose-us{
+    height:100vh;
+    background-color: white;
+
+    padding:80px;
+
+    
+}
+
+.why-ch-con{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    
+    margin:20px;
+
+}
+.d-img{
+   
+    width:40vw;
+    height:50vh;
+
+}
+.head{
+    font-size: 15px;
+    color:black;
+    font-weight: bold;
+}
+.description{
+    color:black;
+    font-size: 15px;
+}
+.sub-con{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+.each-con{
+    display: flex;
+    flex-direction: row;
+  
+
+    width:300px;
+}
+.why{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height:80vh;
+}
+.icon-con{
+   display:flex;
+   justify-content: center;
+   align-items: center;
+}
+.about-con{
+    display: flex;
+    flex-direction: column;
+    margin-left:9px;
+    width:250px;
+    margin-right:6px;
+}
+
+.s-head{
+    font-size:13px;
+    margin-bottom: 0px;
+}
+.icons{
+    font-size: 2rem;
+    color:navy;
+}
+
+.other-services-page{
+    height:100vh;
+    background-image: url(imagess/library.png);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.tools-con{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.tool{
+    color:white;
+    font-size: 2rem;
+}
+.each-tool-con{
+    height:250px;
+    width:200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid navy;
+    margin:10px;
+    color:white;
+    padding:6px;
+    background-color: transparent;
+}
+
+.t-mtr{
+    color:white;
+    font-size: 12px;
+}
+.selected{
+    background-color: navy;
+}
+
+.projects-page{
+    height:100vh;
+    background-color: white;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.prjs{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
+
+.name{
+    color:black;
+    font-size: 13px;
+    padding:8px;
+}
+
+
+.con-1{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 0px;
+    flex-wrap: wrap;
+}
+.con-2{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 0px;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+}
+.prj-img{
+    height:200px;
+    width:300px;
+    margin:0px;
+}
+
+.raise-questions{
+    height:100vh;
+    background-image: url(imagess/library.png);
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.ele-man{
+    height:100vh;
+    width:400px;
+    align-self: self-end;
+}
+
+.con-3{
+    margin-left: 150px;
+}
+
+.info-page{
+    height:100vh;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.map-img{
+    height:150px;
+    width:20vw;
+    margin:6px;
+}
+.contact-page{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height:65vh;
+    width:100vw;
+    background-color: aliceblue;
+}
+
+.loc-page{
+    height:300px;
+    height:70vh;
+    margin:6px;
+}
+.user-info{
+    height:300px;
+    width:40vw;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.input-det{
+    height:25px;
+    width:250px;
+    background-color: white;
+    color:black;
+    font-size: 12px;
+    border: 0px;
+    padding:6px;
+    margin-right:5px;
+}
+.footer-section{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height:35vh;
+    width:100vw;
+}
+.input-area{
+    background-color: white;
+    color:black;
+    font-size: 12px;
+    border: 0px;
+    padding:6px;
+    width:250px;
+}
+
+.contacts{
+    display: flex;
+    flex-direction: column;
+    margin:0px;
+}
+.con-name{
+    color:white;
+    font-size: 17px;
+}
+.contact-con{
+    display: flex;
+    flex-direction: row;
+}
+.info{
+    color: white;
+    font-size: 15px;
+}
+.services{
+    margin:0px;
+    display: flex;
+    flex-direction: column;
+
+}
+.offer-card{
+    margin-top:20px;
+    height:100px;
+    width:150px;
+
+    text-align: center;
+    border:2px solid white;
+
+}
+.e-style{
+    color: #f7a023;
+}
+.con-icon{
+    color: #f7a023;
+    font-size: 2rme;
+    margin-top:14px;
+    margin-right:5px;
+}
